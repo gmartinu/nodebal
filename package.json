@@ -5,7 +5,7 @@
   "files": [
     "build"
   ],
-  "repository": "https://github.com/felps-dev/nodebal",
+  "repository": "https://github.com/gmartinu/nodebal",
   "author": "Felipe Correa <eu@felps.dev>",
   "license": "MIT",
   "dependencies": {
